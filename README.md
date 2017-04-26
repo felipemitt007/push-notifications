@@ -12,9 +12,7 @@ Only a developer participated in this project. The programmer Felipe Mitterofhe.
 
 ## Version control:
 
-<The system is currently in version 1.0.> 
-
-This version implements push notifications, and an example of how to interact with them.
+The system is currently in version 1.0. This version implements push notifications, and an example of how to interact with them.
 
 ## Authors:
 
